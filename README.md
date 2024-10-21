@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yashssarolkar ... I am a first year engineering student majoring in computer science with specialization in artificial intelligence and machine learning.
-- 👀 I’m interested in learning new technologies, providing solutions to problems and contributing in simple projects.
+- 👋 Hi, I’m @yashssarolkar ... I am a third year engineering student majoring in computer science with specialization in artificial intelligence and machine learning.
+- 👀 I’m interested in learning new technologies, providing solutions to problems and contributing in projects.
 - 🌱 I’m currently learning python language. I have a good hold on my C++ and Java concepts and skills.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
